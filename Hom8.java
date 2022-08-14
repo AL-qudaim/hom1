@@ -1,0 +1,11 @@
+import com.sun.jdi.PathSearchingVirtualMachine;
+
+import javax.swing.*;
+
+public class Hom8 {
+    public static void main(String[] args){
+    {
+        JOptionPane.showMessageDialog( null, " Hello ,Fatima");
+    }}
+}
+
